@@ -28,6 +28,7 @@ jobs:
           - nabu
           - vayu-huaxing
           - vayu-tianma
+          - miatoll-huaxing
           - cepheus
           - hotdog
           - guacamole
