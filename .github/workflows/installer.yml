@@ -28,6 +28,7 @@ jobs:
           - cepheus
           - vayu-huaxing
           - vayu-tianma
+          - miatoll-huaxing
           # sm8250
           - lmi
           # sm8550
